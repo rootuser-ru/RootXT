@@ -1,0 +1,5 @@
+.sites_disabled/
+logs/
+*.log
+ip.txt
+usernames.txt
