@@ -1,10 +1,10 @@
 # ROOTXT
 
-Educational cybersecurity framework for local security training.
+Educational cybersecurity framework for Security Testing. Developed by rootuser.ru popularly Known in Instagram 
 
 ## ⚠️ UNDER DEVELOPMENT
 
-ROOTXT is an educational project.
+ROOTXTv1 is an educational project.
 
 - Do not expose login simulations to the public internet
 
